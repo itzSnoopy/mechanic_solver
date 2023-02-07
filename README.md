@@ -1,6 +1,7 @@
 # mechanic_solver
 solves mechanics
 
+```
                                        /;    ;\
                                    __  \\____//
                                   /{_\_/   `'\____
@@ -20,3 +21,4 @@ solves mechanics
     :__\  \    * `,'*         \  \  :  \   *  8`;'*  *
         `^'     \ :/           `^'  `-^-'   \v/ :  \/   
 
+```
